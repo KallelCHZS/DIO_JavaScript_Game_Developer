@@ -4,7 +4,7 @@ if (idade.value >= 18)
 {
     console.log("Maior de idade")
 }
-else(idade.value <=17) 
+else
 {
     te("Menor de idade")
 }
